@@ -9,5 +9,5 @@ Atualmente a mensagem de retorno está fixa, específicamente para o uso do meu 
 
 Execução do projeto/docker:
 
-1. docker build -t robo-check:v1.0 .
-2. docker run -dp 3000:3000 --name robo-check robo-check:v1.0
+1. docker build -t robo-check:v1.1 .
+2. docker run -dp 3000:3000 --name robo-check robo-check:v1.1
